@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    align-items: center;
+}
+body{
+    background-color: rgb(red,241 green,239 blue,239);
+}
+
+.top-header{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 10px;
+    justify-content: space-between;
+
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between
+}
